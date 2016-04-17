@@ -1,0 +1,57 @@
+.frontcontainer{
+  width:90%;
+  margin:0 auto;
+
+}
+
+.frontcontainer h1{
+  text-align: center;
+  margin-top: 4%;
+  color: #fd5c63;
+}
+
+#logo{
+  background-image: url("../images/bee.JPEG");
+  margin:0 auto;
+  margin-top:50px;
+  width:120px;
+  height:120px;
+  background-repeat: no-repeat;
+  border-radius: 200px;
+  background-size: 90%;
+  background-position: center;
+}
+
+#about_desc{
+  text-align: center;
+  margin:0 auto;
+  margin-top:5%;
+  font-size: 30px;
+  width:50%;
+}
+
+.submit_details{
+
+  margin:0 auto;
+  margin-top:5%;
+  width:23%;
+
+}
+
+#call_me{
+  margin:0 auto;
+  margin-top:5%;
+  width:100px;
+  height:100px;
+  border-radius: 100px;
+  text-align: center;  
+  background-color: #fd5c63;
+  color:white;
+  font-weight: bold;
+}
+
+#call_me p{
+  position:relative;
+  top:38%;
+  text-transform: uppercase;
+}
